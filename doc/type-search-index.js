@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"DSA_Resit","l":"CircularLinkedList"},{"p":"DSA_Resit","l":"CLL"},{"p":"DSA_Resit","l":"ShopNode"}];updateSearchResults();
